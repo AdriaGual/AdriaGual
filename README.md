@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, ChakraUI and Vite**
 
-- 👨‍💻 All of my projects are available at [adriagual.tk](adriagual.tk)
+- 👨‍💻 All of my projects are available at [adriagual.tk](https://adriagual.tk)
 
 - 💬 Ask me about **React, Java and Spring**
 
