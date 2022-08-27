@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [adriagual.tk](adriagual.tk)
 
-- 💬 Ask me about **react, java, corticon or python**
+- 💬 Ask me about **React, Java, Corticon or Python**
 
 - 📫 How to reach me **adriagual06@gmail.com**
 
