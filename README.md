@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Laravel and Vite**
 
-- 👨‍💻 All of my projects are available at [adriagual.tk](https://adriagual.tk)
+- 👨‍💻 All of my projects are available at [agual.netlify.app](https://agual.netlify.app/)
 
 - 💬 Ask me about **React, Java, Corticon or Python**
 
